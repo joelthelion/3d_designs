@@ -51,7 +51,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="cadeau"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.42429;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 189.47863,94.982248 h 58.18154 c 11.27167,0 20.34599,9.074302 20.34599,20.345982 v 204.92588 c 0,11.27168 -9.07432,20.34601 -20.34599,20.34601 H 36.544064 c -11.271675,0 -20.345988,-9.07433 -20.345988,-20.34601 V 115.32823 c 0,-11.27168 9.074313,-20.345982 20.345988,-20.345982 h 68.634426"
@@ -416,7 +416,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="dessus"
-     style="display:none">
+     style="display:inline">
     <rect
        ry="0"
        y="95.393425"
